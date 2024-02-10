@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fjoralba-k
-- 📫 Email: fjoralbakrasniqi12@gmail.com
+- 📫 Email: fjoralbak3@gmail.com
 
 <!---
 fjoralba-k/fjoralba-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
