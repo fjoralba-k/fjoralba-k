@@ -9,8 +9,8 @@ I'm a focused and aspiring software engineer on an exciting coding journey. As a
 
 
 📫 **Let's Connect:**
-Feel free to drop me an email at fjoralbak3@gmail.com. 
-<br>Always up for a chat or discussing the tech trends.
+ fjoralbak3@gmail.com. 
+
 
 <!---
 fjoralba-k/fjoralba-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
