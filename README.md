@@ -5,7 +5,7 @@ I'm a curious and aspiring software engineer on an exciting journey through the 
 
 - Currently mastering the art of software engineering
 - Enthusiastic about problem-solving and creative coding
-- Open to collaboration and eager to learn from fellow developers
+- Eager to learn from experienced developers
 
 
 📫 **Let's Connect:**
