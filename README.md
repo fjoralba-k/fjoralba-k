@@ -9,7 +9,7 @@ I'm a focused and aspiring software engineer on an exciting coding journey. As a
 
 
 📫 **Let's Connect:**
- fjoralbak3@gmail.com. 
+ fjoralbak3@gmail.com
 
 
 <!---
